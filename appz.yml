@@ -12,7 +12,7 @@ build:
   version: 0.4
   
 deploy:
-  context: ssomwanshi/DEV
+  context: ssom/DEV
   port: 8080
   replicas: 2
   
