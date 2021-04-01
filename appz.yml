@@ -1,7 +1,7 @@
 app:
   code: SBW
   name: Spring Boot Web
-  notify: ssomwanshi@maximaconsulting.net
+  notify: sset
   
 build:
   build_file: pom.xml
